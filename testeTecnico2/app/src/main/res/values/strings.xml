@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Teste Zup</string>
+    <string name="title_login">Login</string>
+    <string name="title_movies">Filmes</string>
+    <string name="title_movie_detail">Detalhes do filme</string>
+    <string name="email_address">Digite o e-mail</string>
+    <string name="login">Login</string>
+    <string name="password">Digite a senha</string>
+    <string name="sign">Entrar</string>
+    <string name="movieflix_description">Faça login e acompanhe todos os lançamentos de filmes no Mundo.</string>
+    <string name="movflix">Movflix</string>
+    <string name="upcoming">Lançamentos</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="rating">Avaliação</string>
+    <string name="photo_movie">Foto do filme</string>
+    <string name="language">BR</string>
+    <string name="adult">18</string>
+</resources>
